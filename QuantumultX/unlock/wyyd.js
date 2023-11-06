@@ -17,7 +17,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wyyd.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.gitmirror.com/89996462/Quantumult-X/main/ycdz/wyyd.js
 
 [mitm] 
 
